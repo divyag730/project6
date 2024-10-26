@@ -1,0 +1,306 @@
+/* frist sec */
+.one{
+    width: 100%;
+}
+.nav-text{
+    font-size: 10px;
+}
+.name{
+    font-size: 10px;
+}
+.ball{
+    font-size: 20px;
+    color: white;
+}
+/* media quary  */
+@media(max-width:468){
+    
+}
+/* banner */
+.banner{
+    background-image: url(IMAGES/b.webp);
+    width: 100% auto ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.inbox{
+    min-height: 500px;
+    text-align: center;
+    padding-top: 100px;
+
+}
+/* 3rd section */
+.three{
+    background-color: rgb(0, 0, 0);
+    width: 100% ;
+    min-height: 200px;
+    opacity: 1.2;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 15px;
+    
+
+}
+.line-1{
+    height: 0.5px;
+    background-color: wheat;
+    width: 150px;
+    margin-top:10px ;
+    
+}
+/* SECTION 4TH */
+
+.four{
+    width: 100% ;
+    min-height: 500px; 
+    background-image: url(IMAGES/intirior.copy.jpg);
+    background-size: cover;
+    width: 100% auto;
+    text-align: center;
+}
+.four-text{
+    text-align: center;
+    padding-top: 150PX;
+    font-size:70PX;
+    color: rgb(220, 176, 33);
+    font-weight: bold;
+    /* font-weight: bold; */
+}
+.text{
+    text-align: center;
+    font-size:40px;
+    color: white;
+    font-weight: bold;
+    padding-top: 10PX;
+    /* font-weight:lighter; */
+}
+.link{
+    color: white;
+    background-color: rgb(220, 176, 33);
+    font-size:15 px;
+    text-decoration: none;
+    text-align: center;
+    border-radius:15px ;
+    font-weight: bold;
+    padding: 10PX;
+
+}
+
+/* 5th section */
+.five{
+    background-image: url(IMAGES/banner\ 2.webp);
+    width: 100%;
+    /* min-height: 350px; */
+    background-size: cover;
+    text-align: center;
+    margin: auto;
+    /* padding-top:100px ; */
+}
+.logo-img{
+   border-radius: 50%;
+   height: 100px;
+   border: white solid 3px;
+   border-radius:50px;
+
+}
+.HEAD{
+    padding-top: 25px;
+    color: whitesmoke;
+    padding-top: 23PX;
+    font-size: 50PX;
+   
+    
+}
+.PARA{
+    color: wheat;
+    font-size: 25PX;
+    padding-bottom: 20px;
+
+}
+.link-two{
+    color: white;
+    background-color:rgb(212, 165, 9);
+    font-size: 15px;
+    /* padding: 10px; */
+    text-decoration: none;
+    text-align: center;
+    border-radius:10px ;
+    font-weight: bold;
+    padding: 10px;
+
+}
+.fi{
+    background-color: rgba(0, 0, 0, 0.471);
+}
+.five-text{
+    padding: 90px 0px;
+}
+/* 6th section */
+.six{
+    background-color:wheat;
+    width: 100% ;
+    min-height: 200px;
+    opacity: 1.2;
+    color:rgb(11, 11, 11);
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 15px;
+
+}
+.line-6{
+    height: 0.5px;
+    background-color: rgb(8, 8, 8);
+    width: 200px;
+    margin-top:10px ;
+}
+    .six-p{
+        color:rgb(212, 165, 9);
+    }
+    /* 7th section  */
+    .seven{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-image: url(IMAGES/restaarant.jpg);
+        background-size: cover;
+        /* min-height: 600px; */
+        width: 100%;
+        text-align: center;
+        color: whitesmoke;
+        /* padding-top: 200px; */
+    }
+    .seven-line{
+        height: 3px;
+        width: 300px;
+        background-color: whitesmoke;
+        margin: auto;
+    }
+    .link-seven{
+        color: white;
+    background-color:rgb(212, 165, 9);
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    padding: 7PX;
+    border-radius:10px ;
+    }
+    .seven-text{
+        padding: 100PX 0PX;
+    }
+    /* 8TH section */
+.eight{
+    background-image: url(IMAGES/ga.jpeg);
+    background-size: cover;
+    /* min-height: 600px; */
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+    /* padding-top: 100px; */
+    margin: auto;
+
+}
+.eight-logo{
+    height: 100px;
+    border: rgb(0, 0, 0) solid 5px;
+    /* /* border: rgb(34, 41, 60) solid 7px; */
+    border-radius: 500%;
+    border-radius:50px; 
+    /* padding-top: 15px; */
+
+}
+.eight-text{
+    padding: 100PX 0;
+}
+
+/* nine section */
+.nine{
+    background-color:rgb(147, 173, 209);
+    width: 100% ;
+    min-height: 200px;
+    opacity: 1.2;
+    color:rgb(11, 11, 11);
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 15px;
+
+}
+.line-9{
+    height: 0.5px;
+    background-color: rgb(8, 8, 8);
+    width: 150px;
+    margin-top:10px ;
+}
+    .six-p{
+        color:black;
+    }
+    /* 10TH SECTION */
+
+.ten{
+    background-image: url(IMAGES/C.jpg);
+    background-size: cover;
+    min-height: 500px;
+    width: 100%;
+    text-align: center;
+    color: rgb(155, 38, 38);
+    padding-top: 100px;
+    margin: auto;
+}
+/* 11th section */
+.elven{
+    background-color: black;
+   
+    width: 100%;
+}
+.picture{
+    background-image: url(IMAGES/initial-copy.jpg);
+    background-size:200px;
+    /* padding-bottom: 60px; */
+    background-repeat: no-repeat;
+    background-position: center;
+    /* opacity: 0.3; */
+}
+.trans{
+    /* padding: 100px 0px; */
+    background-color: rgba(0, 0, 0, 0.693);
+}
+.words{
+    color:rgb(212, 165, 9);
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.h1{
+    font-size:15px;
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+
+}
+.link-eleven{
+    color: white;
+background-color: rgb(212, 165, 9);
+font-size: 15px;
+text-decoration: none;
+text-align: center;
+font-weight: bold;
+padding: 10PX;
+border-radius:10px ;
+margin: auto;
+padding-left:10px;
+}
+/* 12th section */
+.wrd{ 
+    font-size: 15px;
+    font-weight: bold;
+    text-align:left;
+    padding-top: 15px;
+    min-height: 20px;
+    color:gry;
+}
+.icons{
+    /* width: 100%; */
+
+}
+/* media quary */
+
